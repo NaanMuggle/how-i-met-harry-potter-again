@@ -1,5 +1,6 @@
 ---
 title: First Post
+subtitle: Hi!
 author: Chris
 layout: post
 ---

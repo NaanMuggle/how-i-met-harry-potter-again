@@ -1,5 +1,6 @@
 ---
 title: Second Post
+subtitle: It Takes Two to Tango
 author: Chris
 layout: post
 ---

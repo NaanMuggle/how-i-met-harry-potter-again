@@ -1,5 +1,6 @@
 ---
 title: Third Post
+subtitle: Third Time's a Charm
 author: Chris
 layout: post
 icon: fa-lightbulb

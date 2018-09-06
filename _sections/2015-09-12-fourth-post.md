@@ -1,5 +1,6 @@
 ---
 title: Fourth Post
+subtitle: Four Dimensions
 author: Chris
 layout: post
 ---

@@ -1,11 +1,12 @@
 {%- comment -%}
   Include vars:
 	title
-  subtitle
+	subtitle
 	photo
 	photo-alt
 	auto-header
 	content
+	date
 {%- endcomment -%}
 
 {%- assign _title = include.title | default: 'Untitled' -%}
@@ -34,6 +35,7 @@
         {%- endif -%}
       </h2>
       {%- if include.subtitle -%}<p>{{- include.subtitle -}}</p>{%- endif -%}
+	  <p>{{- include.date | date: '%B %d, %Y' -}}</p>
 		</header>
 	{%- endcapture -%}
 {%- endif -%}
