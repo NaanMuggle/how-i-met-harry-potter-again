@@ -5,7 +5,7 @@ layout: post
 ---
 Hello again! This week I will be discussing Book 2, specifically how Rowling develops Slytherin as the collective "bad guy". This is a major theme for the series, and while it was briefly introduced in Book 1, it becomes a central idea for Book 2. 
 
-![Slytherin ≠ Voldemort](/assets/images/Week_2_Slytherin_Not_Voldemort.jpg)
+![Slytherin ≠ Voldemort](/assets/images/Week_2_Slytherin_Not_Voldemort.jpg){:class="img-responsive"}
 
 The sides of good and evil are pretty well-defined in the first few Harry Potter books, especially with Slytherin House being so clearly bad. It's really quite a shame because we learn later on this isn't really the case. Still, Rowling sets this up for us in so many ways that I actually felt quite guilty for this initial prejudice when going through my reread. Even with the first book, the first impression we have of the Slytherin House is it was the House Voldemort was in. This connection is expounded on much further in Book 2. Harry constantly doubts his House placement, worrying that he was supposed to go into Slytherin, which he considers the worst fate. This fear gets amplified when Harry's ability to speak Parseltongue is instantly censured by his fellow classmates. Adding to this, Malfoy, who basically represents the Slytherin student body for us, is absolutely awful with all his hate speech and glee at the attempted murders of Muggle-borns. Snape is rude and terrible, as usual. And of course, the little thing about the HEIR OF SLYTHERIN being behind these attacks...just icing on the top of the cake.
 
