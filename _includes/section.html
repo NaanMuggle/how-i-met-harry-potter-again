@@ -34,8 +34,8 @@
           {{- include.auto-header -}}
         {%- endif -%}
       </h2>
-      {%- if include.subtitle -%}<p>{{- include.subtitle -}}</p>{%- endif -%}
-	  <p>{{- include.date | date: '%B %d, %Y' -}}</p>
+      {%- if include.subtitle -%}<h3>{{- include.subtitle -}}</h3>{%- endif -%}
+	  <br /><h4 >{{- include.date | date: '%B %d, %Y' -}} &nbsp;&nbsp;⏳ &nbsp;{{ include.content | reading_time }} read</h4>
 		</header>
 	{%- endcapture -%}
 {%- endif -%}
