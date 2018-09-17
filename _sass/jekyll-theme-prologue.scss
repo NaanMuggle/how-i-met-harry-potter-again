@@ -203,6 +203,11 @@
 	br.clear {
 		clear: both;
 	}
+	
+	#title {
+		max-width: 150px;
+		float: right;
+	}
 
 /* Sections/Article */
 
@@ -562,6 +567,7 @@
 	}
 
 	#nav {
+		margin-top: 80px;
 		ul {
 			list-style: none;
 			margin-bottom: 0;
