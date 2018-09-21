@@ -203,6 +203,11 @@
 	br.clear {
 		clear: both;
 	}
+	
+	#title {
+		max-width: 150px;
+		float: right;
+	}
 
 /* Sections/Article */
 
@@ -562,6 +567,7 @@
 	}
 
 	#nav {
+		margin-top: 80px;
 		ul {
 			list-style: none;
 			margin-bottom: 0;
@@ -708,11 +714,20 @@
 
 			&.shade-three {
 				background-color: #ecf1f1;
-				text-align: left;
+				text-align: left	;
 			}
 
 			&.shade-four {
-				background-color: #e8edec;
+				background-color: #ecf1f1;
+				text-align: left	;
+			}
+			
+			.img-responsive {
+				width: 100%			;
+				max-width: 350px;
+				float: left;
+				padding-right: 20px;
+				padding-bottom: 0px;
 			}
 		}
 	}

@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: How I Met Harry Potter (Again)
-subtitle: 
+subtitle: A Reread Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Reflections from HONR279Q (Assessing the Harry Potter Books and their Adaptations)
 author: NaanMuggle
@@ -60,3 +60,8 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
+
+reading_time:
+  second_plural: "sec"    # default: seconds
+  minute_singular: "min"  # default: minute
+  minute_plural: "min"    # default: minutes
