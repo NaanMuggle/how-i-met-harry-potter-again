@@ -5,7 +5,7 @@ layout: post
 ---
 
 
-![Dementor](/assets/images/dementor_by_oxphantomxo-d4b9mtm.jpg)
+![Dementor](/assets/images/dementor_by_oxphantomxo-d4b9mtm.jpg){:class="img-responsive-center"}
 <h5><center>Photo credit: <a href="https://www.deviantart.com/oxphantomxo/art/Dementor-260789962" target="_blank">Dementor by oxPhantomxo</a></center></h5><br />
 
 This week we started reading the third book of the series, *The Prisoner of Azkaban*...enter our first glimpse of the dementors. They're black, wispy, shrouded figures that literally feed off the happiness and life of other beings. Apart from giving me nightmares as a child, the whole construct of a dementor is actually quite fascinating and probably also one of the most profound features of this series altogether. 
