@@ -8,7 +8,7 @@ Finishing up Book 3 this week...the early ones go by so quickly. This time, I wa
 
 Werewolves were originally normal people that were in the wrong place at the wrong time and got bit by another werewolf. Such people get a really bad reputation mainly because of the crimes of the those like Fenrir Greyback. Unfortunately, this prejudice damages the lives of even the best of people, namely Lupin in this book.
 
-<div style="float: left; padding-bottom: 5px;">
+<div style="float: left; padding-bottom: 5px; padding-top: 10px;">
 <img class="img-responsive-left" src="/assets/images/RemusLupin_WB_F3_RemusLupinWerewolIllustration_Illust_080615_Port.jpg" />
 <center><h5>Photo credit: <a href="https://www.pottermore.com/features/things-you-may-not-have-noticed-about-remus-lupin" target="_blank">Pottermore</a></h5></center>
 </div>
