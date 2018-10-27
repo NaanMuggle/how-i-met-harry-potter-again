@@ -17,16 +17,4 @@ The moment he was preparing for comes near the end of the book with the Battle o
 At the end of the novel, we finally get to hear the prophecy that was lost in the battle. Here, Neville is brought in a very strange twist of fate. The boy who has the power to defeat Voldemort could have been either him or Harry, but Voldemort chose Harry when he attacked the Potters that night fourteen years ago. When I read this, I didn't really feel that this choice meant that Neville's life was a lot better than Harry's. Neville and Harry grew up very differently, but both had difficult lives without their parents. They both have learned to grow out of the shadow of their past, and they both will eventually destroy Voldemort together. Even without a scar on his head, Neville's journey is admirable, making him the best piece of the legacy that Alice and Frank left behind.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Neville Deathly Hallows](/assets/images/neville-deathly-hallows.jpg){:class="img-responsive-center"}
