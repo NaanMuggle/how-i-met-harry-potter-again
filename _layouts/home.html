@@ -10,7 +10,8 @@ layout: default
 	{%- endif -%}
 <img style="max-height:100%; max-width:100%;" src="/assets/images/banner.jpg"></img>
 	<!-- Sections -->
-	{%- for _section in _sections -%}
+	{% assign sorted_sections = _sections | sort %}
+	{%- for _section in sorted_sections -%}
 		{%- include section.html title=_section.title subtitle=_section.subtitle date=_section.date photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
 	{%- endfor -%}
 </div>
