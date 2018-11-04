@@ -1,6 +1,6 @@
 ---
 title: Week Nine
-subtitle: 
+subtitle: The Troubled Beginnings of Voldemort
 layout: post
 ---
 
