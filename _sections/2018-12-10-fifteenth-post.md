@@ -1,0 +1,17 @@
+---
+title: Week Fifteen
+subtitle: All was well. 
+layout: post
+
+
+---
+
+Now at the end of our course, I thought I would use this last post to discuss ideas from the semester that stood out for me. When I first decided to take this class, I was looking for an easy, fun course. I imagined it would be quite enjoyable to immerse myself in a world that I had loved for so long. I remember on the first day of class, we were given a warning that this course would analyze the books impartially, both extolling its merits as well as highlighting its flaws. If we were not prepared for the latter, we should seriously consider dropping the class. Although it gave me pause initially, I'm really glad I took this course, and I feel like my childhood love for reading has been renewed. 
+
+Moving to my discussion, a common theme that we discussed was Rowling's incorporation of both foreshadowing and backshadowing. Although difficult to see at first, on a reread we can notice and appreciate them so much more. Hagrid telling Harry "yeh'd be mad ter try an' rob" Gringotts. Dumbledore's room of chamber pots. The kids sifting through the Black family heirlooms and deciding to throw away a locket they couldn't open...all wonderful examples of the care she took to build this world for us. Of course, given this level of care and intention, it gives me further justification to admonish *Cursed Child* as being the opposite of well thought-out. 
+
+Apart from this, I felt the greatest shock during this course was our analysis of Dumbledore. I always admired him so much, even excusing his flaws as the mistakes of a child, of a former life. From our discussions, I realized that his flaws were very real and present throughout the books and not just in *Deathly Hallows*. He allowed the abuse that Harry faced for the first 10 years of his life. He did practically nothing to stop Harry from competing in the Triwizard Tournament. He more or less manipulated Harry in the fifth book, not sharing with him details that would have most likely saved Sirius's life. Seeing this broke my heart initially, especially since I had admired and believed Dumbledore's every word when I was a child. Over time, however, I have come to accept these traits as a mark of an imperfect human, like every other character in this series. It helped me better recognize the merits of Dumbledore, especially the idea that he could identify his own weakness for power and actively work against it his whole life. 
+
+Lastly, I wanted to touch upon the impact that Harry Potter has made on the world. As we mentioned in class, most fiction novels get some publicity for a few years and then fade out soon after. Only a few have managed to stand the test of time, later becoming literary giants in history...Shakespeare, Austen, Tolkien, etc. While we treat their works as pinnacle classics now, these were of course at the time just the new form of modern entertainment. People during Shakespeare's time considered Plato, Aristotle, and Socrates worth of study, not the fanciful plays seen at the theater. Austen's works were basically like our modern day romantic comedy films. As such, I feel that Harry Potter, although treated as a phase of my generation, will also be important in our history. It has served as an iconic landmark of the last twenty years, and I believe people will be reading Harry Potter for decades to come. 
+
+![All was well](/assets/images/allwaswell.jpg){:class="img-responsive-center"}
